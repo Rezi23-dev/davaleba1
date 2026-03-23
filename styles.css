@@ -17,9 +17,9 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #222;
+  background-color: #bd1515;
   padding: 15px 30px;
-  color: white;
+  color: rgb(199, 20, 20);
 }
 
 .logo {
